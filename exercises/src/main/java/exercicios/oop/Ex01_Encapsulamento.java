@@ -1,8 +1,6 @@
-    package main.java.exercicios.oop;
+    package exercicios.oop;
 
-    import java.sql.SQLOutput;
-
-    /**
+/**
      * =============================================
      * EXERCICIO 01 - ENCAPSULAMENTO
      * =============================================
