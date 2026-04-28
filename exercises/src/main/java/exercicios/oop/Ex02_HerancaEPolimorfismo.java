@@ -1,4 +1,4 @@
-package exercicios.oop;
+package main.java.exercicios.oop;
 
 /**
  * =============================================
