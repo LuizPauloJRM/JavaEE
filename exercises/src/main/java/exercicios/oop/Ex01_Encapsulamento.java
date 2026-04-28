@@ -1,4 +1,4 @@
-package exercicios.oop;
+package main.java.exercicios.oop;
 
 /**
  * =============================================
@@ -26,25 +26,6 @@ package exercicios.oop;
  * - O que eh encapsulamento e como ele protege o estado do objeto.
  */
 public class Ex01_Encapsulamento {
-    //Atributos
-    public static class ContaBancaria {
-        //ATRIBUTOS
-        private String titular;
-        private double saldo;
-        private String numeroConta;
-
-
-
-
-
-
-
-
-
-
-
-
-    }
 
     //MAIN : Executavel testes a serem feitos
     public static void main(String[] args) {
@@ -53,4 +34,4 @@ public class Ex01_Encapsulamento {
 
     }
 
-}//Ex01_Encapsulamento FECHAMENTO
+}
